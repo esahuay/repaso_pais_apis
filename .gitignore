@@ -1,0 +1,60 @@
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## Rider
+.idea/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Configuration files
+appsettings.*.json
+
+## Logs
+*.log
+
+## Environment files
+.env
+.env.*
+
+## Publish output
+**/publish/
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuspec
+
+## Transient files
+*.tmp
+*.temp
+
+## Others
+*.db
+*.sqlite
+*.bak
+*.sql
+Thumbs.db
+.DS_Store
+
+# Uncomment below if you're using secrets.json
+# secrets.json
